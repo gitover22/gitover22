@@ -2,15 +2,15 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome to my profile!&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20friend!%22);Welcome to my profile!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
-
+<br>
 
 :vulcan_salute: I am huafeng, a graduate student at ucas.
 
-:computer: I mainly focused on back-end development in C/C++.
+:computer: I mainly focused on back-end development with C/C++.
 
 :writing_hand: Maybe I'll write on CSDN, you can visit [my websites](https://blog.csdn.net/goodgood_UP).
 
@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
+<br>
 <p align='left'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitover22&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="gitover22's github stats"/>
 <br>
