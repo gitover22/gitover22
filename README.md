@@ -27,7 +27,10 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 <br>
 <p align='left'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitover22&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="gitover22's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitover22&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="gitove22r's github stats"/>
 <br>
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitover22&bg_color=071A2C&text_color=FFFFFF" alt="gitover22's top langs"/> -->
+
+  
+<!--常用语言占比 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitover22&bg_color=071A2C&text_color=FFFFFF" alt="gitover22's top langs"/> -->
 </p>
