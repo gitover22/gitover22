@@ -8,15 +8,15 @@
 
 <br>
 
-## 🥷 About me
+## 😎 About me
 
 :vulcan_salute: I am huafeng, a graduate student at ucas.
 
 :computer: I mainly focused on back-end development with C/C++.
 
 :writing_hand: Maybe I'll write on CSDN, you can visit [my websites](https://blog.csdn.net/goodgood_UP).
-
-## ⚡ Technologies
+<br/>
+## 💻 Technologies
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&color=black&logoColor=blue)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&color=black&logoColor=blue)
 ![Python](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=python&color=black)
@@ -28,9 +28,10 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&color=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=black)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&color=black)
-<br>
+<br/>
+## 🐲 My github stats
 <p align='left'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitover22&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="gitove22r's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitover22&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF"/>
 <br>
 
 </p>
