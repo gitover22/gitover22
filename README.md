@@ -13,7 +13,7 @@
 :writing_hand: Maybe I'll write on CSDN, you can visit [my websites](https://blog.csdn.net/goodgood_UP).
 <br/>
 
-## 💻 Technologies
+## 🚀 Technologies
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&color=black&logoColor=blue)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&color=black&logoColor=blue)
 ![Python](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=python&color=black)
