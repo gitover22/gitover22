@@ -8,7 +8,7 @@
 
 <br>
 
-## 🥷 About Me
+## 🥷 About me
 
 :vulcan_salute: I am huafeng, a graduate student at ucas.
 
