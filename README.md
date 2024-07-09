@@ -25,7 +25,6 @@
 ![redis](https://img.shields.io/badge/-redis-00599C?style=flat-square&logo=redis&color=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&color=black&logoColor=blue)
 ![Qt](https://img.shields.io/badge/-Qt-00599C?style=flat-square&logo=Qt&color=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&&color=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&color=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=black)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&color=black)
@@ -35,6 +34,6 @@
 <br>
 
   
-<!--常用语言占比 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitover22&bg_color=071A2C&text_color=FFFFFF" alt="gitover22's top langs"/> -->
+ 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitover22&bg_color=071A2C&text_color=FFFFFF" alt="gitover22's top langs"/>
 </p>
