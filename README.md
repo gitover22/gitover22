@@ -17,14 +17,18 @@
 :writing_hand: Maybe I'll write on CSDN, you can visit [my websites](https://blog.csdn.net/goodgood_UP).
 
 ## ⚡ Technologies
-
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&color=black&logoColor=blue)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&color=black&logoColor=blue)
+![Python](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=python&color=black)
+![shell](https://img.shields.io/badge/-shell-00599C?style=flat-square&logo=shell&color=black)
+![cmake](https://img.shields.io/badge/-cmake-00599C?style=flat-square&logo=cmake&color=black&logoColor=blue)
+![redis](https://img.shields.io/badge/-redis-00599C?style=flat-square&logo=redis&color=black)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&color=black&logoColor=blue)
+![Qt](https://img.shields.io/badge/-Qt-00599C?style=flat-square&logo=Qt&color=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&&color=black)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&color=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=black)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&color=black)
 <br>
 <p align='left'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gitover22&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="gitove22r's github stats"/>
