@@ -8,10 +8,8 @@
 ## 😎 About me
 :vulcan_salute: I am huafeng, a graduate student at ucas.
 
-:computer: I mainly focused on back-end development with C/C++.
+:computer: focused on distributed storage system, heterogeneous system
 
-:writing_hand: Maybe I'll write on CSDN, you can visit [my websites](https://blog.csdn.net/goodgood_UP).
-<br/>
 
 ## 🚀 Technologies
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&color=black&logoColor=blue)
