@@ -6,7 +6,7 @@
   </div>
 
 ## 😎 About me
-:vulcan_salute: I am huafeng, a graduate student at ucas.
+:vulcan_salute: I am huafeng, a freelance programmer.
 
 :computer: focused on distributed storage system, heterogeneous system
 
