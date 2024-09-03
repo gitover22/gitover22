@@ -8,7 +8,7 @@
 ## 😎 About me
 :vulcan_salute: I am huafeng, a freelance programmer.
 
-:computer: focused on distributed storage system, heterogeneous system
+:computer: focused on distributed storage system, heterogeneous system.
 
 
 ## 🚀 Technologies
