@@ -14,8 +14,8 @@
 ## 🚀 Technologies
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&color=black&logoColor=blue)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&color=black&logoColor=blue)
-![Python](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=python&color=black)
 ![cuda](https://img.shields.io/badge/-cuda-00599C?style=flat-square&logo=c%2B%2B&color=black&logoColor=blue)
+![Python](https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=python&color=black)
 ![shell](https://img.shields.io/badge/-shell-00599C?style=flat-square&logo=shell&color=black)
 ![cmake](https://img.shields.io/badge/-cmake-00599C?style=flat-square&logo=cmake&color=black&logoColor=blue)
 ![redis](https://img.shields.io/badge/-redis-00599C?style=flat-square&logo=redis&color=black)
