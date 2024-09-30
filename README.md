@@ -20,7 +20,7 @@
 ![cmake](https://img.shields.io/badge/-cmake-00599C?style=flat-square&logo=cmake&color=black&logoColor=blue)
 ![redis](https://img.shields.io/badge/-redis-00599C?style=flat-square&logo=redis&color=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&color=black&logoColor=blue)
-[Qt](https://img.shields.io/badge/-Qt-00599C?style=flat-square&logo=Qt&color=black)
+![Qt](https://img.shields.io/badge/-Qt-00599C?style=flat-square&logo=Qt&color=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&color=black)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=black)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&color=black)
