@@ -1,4 +1,3 @@
-  <!-- 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Segmentation fault!&center=true&size=27" alt="Typing SVG" />
@@ -8,7 +7,7 @@
 ## 😎 About me
 :vulcan_salute: I am huafeng, a freelance programmer.
 
-:computer: Focused on distributed storage system, heterogeneous system.
+:computer: Focused on heterogeneous sys & sysforAI.
 
 
 ## 🚀 Technologies
