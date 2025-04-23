@@ -1,8 +1,10 @@
+<!--
   <div align="center">
     <a href="https://blog.csdn.net/goodgood_UP?spm=1000.2115.3001.5343">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Segmentation fault!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
+-->
 
 ## 😎 About me
 :vulcan_salute: I am huafeng, a freelance programmer.
@@ -24,6 +26,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=black)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&color=black)
 <br/>
+
+
 
 ## 🐲 My github stats
 <p align='left'>
