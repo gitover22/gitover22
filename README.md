@@ -7,9 +7,9 @@
 -->
 
 ## 😎 About me
-:vulcan_salute: I am huafeng, a freelance programmer.
+:vulcan_salute: a freelance programmer.
 
-:computer: Focused on heterogeneous sys & sysforAI.
+:computer: Focused on AI infra.
 
 
 ## 🚀 Technologies
