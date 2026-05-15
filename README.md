@@ -7,7 +7,7 @@
 -->
 
 ## 😎 About me
-:vulcan_salute: a freelance programmer.focused on AI infra.
+:vulcan_salute: a freelance programmer. focused on AI infra.
 
 
 ## 🚀 Technologies
