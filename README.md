@@ -1,4 +1,4 @@
-# Hi, I'm gitover22 👋
+# Hi, I'm Mark 👋
 
 ## 😎 About Me
 
@@ -59,7 +59,7 @@ NVIDIA GPUs and Cambricon MLUs.
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- markdownlint-disable MD013 MD033 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gitover22's GitHub stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gitover22&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="gitover22's top languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gitover22&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mark's GitHub stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=gitover22&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mark's top languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gitover22&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 <!-- markdownlint-enable MD013 MD033 -->
