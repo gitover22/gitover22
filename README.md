@@ -8,7 +8,8 @@ NVIDIA GPUs and Cambricon MLUs.
 
 ## 💼 Experience
 
-### [Institute of Computing Technology, Chinese Academy of Sciences](https://ict.cas.cn/)
+<!-- markdownlint-disable-next-line MD033 -->
+### <a href="https://ict.cas.cn/"><img src="https://asg.ict.ac.cn/images/logo.png" alt="ICT logo" width="32" align="center"></a> [Institute of Computing Technology, Chinese Academy of Sciences](https://ict.cas.cn/)
 
 **LLM Inference Systems on Cambricon Accelerators** · *Aug 2024 – Jun 2026*
 
@@ -25,7 +26,8 @@ NVIDIA GPUs and Cambricon MLUs.
 - Ported and optimized **more than 10 LLMs**, including Llama, Qwen, and
   DeepSeek, from GPU runtimes to the Cambricon MLU platform.
 
-### [Zhejiang Lab](https://www.zhejianglab.org/lab/home)
+<!-- markdownlint-disable-next-line MD033 -->
+### <a href="https://www.zhejianglab.org/lab/home"><img src="https://www.zhejianglab.org/favicon.ico" alt="Zhejiang Lab logo" width="32" align="center"></a> [Zhejiang Lab](https://www.zhejianglab.org/lab/home)
 
 **LLM Deployment & Inference Optimization** · *Apr 2024 – Aug 2024*
 
