@@ -6,9 +6,9 @@ AI Infrastructure Engineer specializing in high-performance LLM inference,
 distributed serving, model optimization, and accelerator enablement across
 NVIDIA GPUs and Cambricon MLUs.
 
+<!--
 ## 💼 Experience
 
-<!-- markdownlint-disable-next-line MD033 -->
 ### <a href="https://ict.cas.cn/"><img src="https://raw.githubusercontent.com/gitover22/gitover22/main/assets/ict-logo.svg" alt="ICT logo" width="32" align="center"></a> [Institute of Computing Technology, Chinese Academy of Sciences](https://ict.cas.cn/)
 
 **LLM Inference Systems on Cambricon Accelerators** · *Aug 2024 – Jun 2026*
@@ -26,7 +26,6 @@ NVIDIA GPUs and Cambricon MLUs.
 - Ported and optimized **more than 10 LLMs**, including Llama, Qwen, and
   DeepSeek, from GPU runtimes to the Cambricon MLU platform.
 
-<!-- markdownlint-disable-next-line MD033 -->
 ### <a href="https://www.zhejianglab.org/lab/home"><img src="https://raw.githubusercontent.com/gitover22/gitover22/main/assets/zhejiang-lab-logo.svg" alt="Zhejiang Lab logo" width="32" align="center"></a> [Zhejiang Lab](https://www.zhejianglab.org/lab/home)
 
 **LLM Deployment & Inference Optimization** · *Apr 2024 – Aug 2024*
@@ -40,6 +39,7 @@ NVIDIA GPUs and Cambricon MLUs.
   runtime and benchmarked them against the baseline with NVIDIA Nsight.
   Fine-tuned the domain model with LoRA, improving chip-design
   question-answering accuracy by **25.83%**.
+-->
 
 ## 🚀 Technologies
 
