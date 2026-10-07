@@ -4,7 +4,7 @@
 
 AI Infrastructure Engineer specializing in high-performance LLM inference,
 distributed serving, model optimization, and accelerator enablement across
-NVIDIA GPUs and Cambricon MLUs.
+NVIDIA GPUs.
 
 <!--
 ## 💼 Experience
